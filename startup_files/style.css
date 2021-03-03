@@ -26,13 +26,13 @@ h1 {
 	height: 10rem;
 }
 
-.btn {
+.btn, input{
 	text-transform: uppercase;
 	font-weight: 700;
 	border-radius: 300px;
 }
 
-.btn-primary {
+.btn-primary, input {
 	background-color: #F05F44;
 	border-color: #F05F44;
 }
@@ -45,4 +45,13 @@ h1 {
 
 .btn-xl {
 	padding: 1rem 2rem;
+}
+
+#greatest {
+	text-transform: uppercase;
+	font-weight: 700;
+	border-radius: 300px;
+	background-color: #F05F44;
+	border-color: #F05F44;
+
 }
